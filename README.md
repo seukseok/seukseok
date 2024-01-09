@@ -3,7 +3,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://alsiam.com">Seungseok Lee</a></b>
+                <b><a target="_blank">Seungseok Lee</a></b>
         </samp>
 </h3>
 
