@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
- <a href="https://instagram.com/_alsiam" target="_blank">
+ <a href="https://instagram.com/seukseok" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="seukseok" />
  </a> 
 </p>
