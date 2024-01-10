@@ -157,7 +157,7 @@ OS는 주로 리눅스 또는 임베디드 리눅스, 안드로이드 환경을 
 <br>
   MCU(Micro Controller Unit) 종류에 따라 개발 환경, 펌웨어 프로그램을 다운로드하는 Emulator가 달라집니다.
 <br>
-예를 들어, ST社 의 경우 프로그램은 STM32CubeIDE(Keil, IAR Workbench 등)를 사용하며, Emulator는 ST-Link를 사용합니다.
+예를 들어, STM 의 경우 프로그램은 STM32CubeIDE(Keil, IAR Workbench 등)를 사용하며, Emulator는 ST-Link를 사용합니다.
   
 ### 하는 업무
 펌웨어 엔지니어는 하드웨어 엔지니어와 협업하며, 완성된 PCB에 넣을 프로그램을 작성하는 업무를 진행합니다.
