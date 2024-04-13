@@ -79,7 +79,7 @@
 
 ## Embedded developer type
 
-
+<!--
 <details>
   <summary><h3>Embedded Software Enginner</h3></summary>
   
