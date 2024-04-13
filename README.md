@@ -64,7 +64,7 @@
 <br/>
 <br/>
 <br/>
-
+<!--
 # :notebook:Roadmap-to-Embedded-Engineer
 
 ## :star:Summary
@@ -79,7 +79,7 @@
 
 ## Embedded developer type
 
-<!--
+
 <details>
   <summary><h3>Embedded Software Enginner</h3></summary>
   
